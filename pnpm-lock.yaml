@@ -44,8 +44,8 @@ devDependencies:
     specifier: ^10.9.1
     version: 10.9.1(@types/node@20.6.3)(typescript@5.2.2)
   tw5-typed:
-    specifier: 0.3.10
-    version: 0.3.10
+    specifier: 0.4.4
+    version: 0.4.4
   workbox-cli:
     specifier: 7.0.0
     version: 7.0.0
@@ -6693,8 +6693,8 @@ packages:
       typescript: 5.2.2
     dev: true
 
-  /tw5-typed@0.3.10:
-    resolution: {integrity: sha512-c/NEOxuiGS75spVzT88BgAQORDg9l9z2g4HWCOmAoVQN27t0B910K4Db7IN5W7PF3BF88Zn4n+tjxqIwuDg2uQ==}
+  /tw5-typed@0.4.4:
+    resolution: {integrity: sha512-AMWQ4bGIvZC2LPs43Kj4NO8KSU+LWN8S521h2N4FHb/9U+Bm9/IOPfzWIOPHuI9cX/m/HRx++hOrlnQCMympIg==}
     dependencies:
       '@types/codemirror': 5.60.7
       '@types/echarts': 4.9.16
